@@ -10,8 +10,7 @@ arr.forEach(button => {
         }})
     button.addEventListener('click', (e) =>{
         if(e.target.innerHTML == '='){
-            string = eval(string);
-            input.value = string;
+            input.value = eval(input.value);
             input.focus();
         }
         else if(e.target.innerHTML == 'AC'){
