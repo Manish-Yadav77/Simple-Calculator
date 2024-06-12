@@ -23,7 +23,7 @@ arr.forEach(button => {
             input.value = string;
             input.focus();
         }
-        else{ 
+        else{
             string += e.target.innerHTML;
             input.value = string;
             input.focus();
