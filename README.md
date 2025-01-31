@@ -3,6 +3,9 @@
 <p align="center"><img src="https://socialify.git.ci/Manish-Yadav77/Simple-Calculator/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
 <p id="description">Simple calculator for your simple calculation's like addition subtraction multiplication division percentage.</p>
+
+<h2>🚀 Demo</h2>
+[https://simplestcalkulators.netlify.app/]
    
 <h2>🧐 Features</h2>
 
